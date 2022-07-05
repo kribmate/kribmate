@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    overflow-y: hidden;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.bodyBackgroundBlue{
+    background-color: #008EA3;
+}
+
+.bodyBackgroundBeige{
+    background-color: #EFE3CE;
+}
+
+.kribmateLogo{
+    position: relative;
+}
